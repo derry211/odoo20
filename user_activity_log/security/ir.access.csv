@@ -1,0 +1,2 @@
+id,name,model_id,group_id/id,operation,domain
+access_user_activity_log_system,user.activity.log system,user.activity.log,base.group_system,crud,
